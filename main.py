@@ -1,3 +1,4 @@
+# Variáveis de estado
 tentativas = 3
 pontos = 0
 
